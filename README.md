@@ -4,7 +4,7 @@ I appreciate your notification regarding the supporting paper titled "Advancing 
 The provided link leads to the download page-https://www.mdpi.com/2073-4395/13/5/1362
 
 
-# Model Performance notification
+# Model Performance Notification
 
 From the beginning, the model has been built manually setting for hidden layer and dimension
 However, From now on, hyperparameter 'num_hidden_layer' and 'd_hidden' is not serviced in Neural Prophet.
