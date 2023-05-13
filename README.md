@@ -10,7 +10,8 @@ From the beginning, the model has been built manually setting for hidden layer a
 However, From now on, hyperparameter 'num_hidden_layer' and 'd_hidden' is not serviced in Neural Prophet.
 Nevertheless, NP-ARX successfully and automatically, makes it possible to flow AR-NET for input data.
 
-MAE, RMSE is slightly enhanced, compared with the result in the paper
+MAE, RMSE is slightly enhanced, compared with the result in the paper.
+
 In Onion: MAE(test) 4.66 -> 3.72g  / RMSE(test) 8.68 -> 8.09g
 
 I am sure that the NP model set optimal AR-NET structure, I wish you are happy to explore the NP-ARX model for Crop Yield prediction!!
